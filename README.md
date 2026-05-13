@@ -30,6 +30,38 @@ Me chamo Pedro Almeida Candido, sou natural de Campina Grande - PB. Concluí o e
 
 ---
 
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Predd0o&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff&border_color=1e3a5f" 
+  />
+  <img 
+    align="left" 
+    alt="Linguagens mais usadas" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predd0o&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9&title_color=58a6ff&border_color=1e3a5f" 
+  />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Streak" 
+    src="https://streak-stats.demolab.com?user=Predd0o&theme=tokyonight&hide_border=false&locale=pt_BR&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" 
+  />
+</p>
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
+
+---
+
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -91,33 +123,3 @@ Me chamo Pedro Almeida Candido, sou natural de Campina Grande - PB. Concluí o e
 
 <br/>
 <br/>
-
----
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Predd0o&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-  <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predd0o&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Streak" 
-    src="https://streak-stats.demolab.com?user=Predd0o&theme=tokyonight&hide_border=false&locale=pt_BR" 
-  />
-</p>
