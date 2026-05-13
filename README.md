@@ -34,10 +34,10 @@ Me chamo Pedro Almeida Candido, sou natural de Campina Grande - PB. Concluí o e
 
 <p>
   <a href="https://github.com/Predd0o">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Predd0o&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff&border_color=1e3a5f" />
+    <img height="200" align="center" src="https://stats-p2ddpn3q7-predd0os-projects.vercel.app/api?username=Predd0o&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br&title_color=58a6ff&icon_color=58a6ff&border_color=1e3a5f" />
   </a>
   <a href="https://github.com/Predd0o">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Predd0o&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9&title_color=58a6ff&border_color=1e3a5f&card_width=320" />
+    <img height="200" align="center" src="https://stats-p2ddpn3q7-predd0os-projects.vercel.app/api/top-langs/?username=Predd0o&theme=tokyonight&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=9&title_color=58a6ff&border_color=1e3a5f&card_width=320" />
   </a>
 </p>
 
