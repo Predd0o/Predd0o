@@ -43,14 +43,6 @@ Me chamo Pedro Almeida Candido, sou natural de Campina Grande - PB. Concluí o e
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
 
-<p>
-  <a href="https://github.com/Predd0o">
-    <img align="center" src="https://streak-stats.demolab.com?user=Predd0o&theme=tokyonight&locale=pt_BR&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
-  </a>
-</p>
-
-<br/><br/><br/><br/><br/>
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
